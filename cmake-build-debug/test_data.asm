@@ -1,0 +1,5 @@
+CONST R0, #2
+ADD R0, R0, #5
+ADD R0, R0, #-5
+.FILL x73
+.FILL x32
